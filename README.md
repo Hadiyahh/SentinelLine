@@ -31,22 +31,4 @@ dedicated review queue.
 
 <img width="1207" height="736" alt="image" src="https://github.com/user-attachments/assets/539276c9-88b8-4899-ad11-b1d4eef57b58" />
 
-## End-to-End Trace Example
-
-A suspicious Windows executable triggered a persistence-related
-YARA rule and received an initial risk score of 40.
-
-SentinelLine routed it to the DEEP policy, submitted it to
-Assemblyline using the DYNAMIC_OFFLINE configuration, waited for
-analysis to complete, and returned a QUARANTINE recommendation.
-
-
-## End-to-End Trace Example
-
-A suspicious Windows executable triggered a persistence-related
-YARA rule and received an initial risk score of 40.
-
-SentinelLine routed it to the DEEP policy, submitted it to
-Assemblyline using the DYNAMIC_OFFLINE configuration, waited for
-analysis to complete, and returned a QUARANTINE recommendation.
 
