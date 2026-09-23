@@ -6,7 +6,7 @@ SentinelLine is a malware-analysis orchestration layer built on
 Assemblyline that automatically triages submitted files and routes
 them through FAST, DEEP, or HUMAN_REVIEW analysis workflows.
 
-![SentinelLine Audit Dashboard](docs/images/dashboard-overview.png)
+<img width="1300" height="874" alt="image" src="https://github.com/user-attachments/assets/1b3f0f72-37d5-4d62-a956-788b5303b41d" />
 
 ## How It Works
 
@@ -29,7 +29,7 @@ Audit Dashboard
 Files requiring analyst attention are automatically surfaced in a
 dedicated review queue.
 
-![Analyst Review Queue](docs/images/analyst-review.png)
+<img width="1207" height="736" alt="image" src="https://github.com/user-attachments/assets/539276c9-88b8-4899-ad11-b1d4eef57b58" />
 
 ## End-to-End Trace Example
 
@@ -40,7 +40,6 @@ SentinelLine routed it to the DEEP policy, submitted it to
 Assemblyline using the DYNAMIC_OFFLINE configuration, waited for
 analysis to complete, and returned a QUARANTINE recommendation.
 
-![Trace Details](docs/images/trace-details.png)
 
 ## End-to-End Trace Example
 
@@ -51,4 +50,3 @@ SentinelLine routed it to the DEEP policy, submitted it to
 Assemblyline using the DYNAMIC_OFFLINE configuration, waited for
 analysis to complete, and returned a QUARANTINE recommendation.
 
-![Trace Details](docs/images/trace-details.png)
