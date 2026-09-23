@@ -65,3 +65,10 @@ complete, and returned a `QUARANTINE` recommendation.
 | Final Score | `40` |
 | Recommendation | `QUARANTINE` |
 | Status | `complete` |
+
+## Project Presentation
+
+For a visual walkthrough of SentinelLine's architecture, routing policies,
+audit workflow, testing, and current limitations:
+
+[View the SentinelLine Project Presentation](SentinelLine_Presentation.pdf)
